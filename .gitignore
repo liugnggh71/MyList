@@ -1,1 +1,7 @@
 *.zip
+bin/b1f
+bin/Lcd
+bin/Ldir
+bin/Lev
+bin/Lfile
+bin/Llink

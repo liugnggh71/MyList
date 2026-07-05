@@ -3,6 +3,7 @@ rm -f Ldir
 rm -f Lev
 rm -f Lfile
 rm -f Llink
+rm -f b1f
 ln -sf list_cd.sh  Lcd
 ln -sf list_dir.sh Ldir
 ln -sf list_env.sh Lev
